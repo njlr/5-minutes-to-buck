@@ -1,0 +1,12 @@
+cxx_library(
+  name = 'math',
+  exported_headers = [
+    'square.hpp',
+  ],
+  srcs = [
+    'square.cpp',
+  ],
+  visibility = [
+    'PUBLIC',
+  ],
+)
