@@ -2,6 +2,8 @@
 
 This is a very quick Buck tutorial. The final source-files are above. 
 
+> 🚨 This tutorial was written with Linux in mind. Windows and macOS users, please refer to [Facebook's setup instructions](https://buckbuild.com/setup/getting_started.html). Otherwise, the steps are the same. 
+
 ## 0. What tools will I need?
 
 You will need GCC / Clang, a text editor and Buck. 
